@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "train.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 207,
+				"h": 217
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "train_shadow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 68,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 68,
+						"h": 181
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 68,
+						"h": 181
+					}
+				},
+				{
+					"filename": "train_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 68,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 190
+					},
+					"frame": {
+						"x": 71,
+						"y": 1,
+						"w": 67,
+						"h": 190
+					}
+				},
+				{
+					"filename": "track_05.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 32
+					},
+					"frame": {
+						"x": 1,
+						"y": 184,
+						"w": 64,
+						"h": 32
+					}
+				},
+				{
+					"filename": "train_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 68,
+						"h": 190
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 66,
+						"h": 190
+					},
+					"frame": {
+						"x": 140,
+						"y": 1,
+						"w": 66,
+						"h": 190
+					}
+				},
+				{
+					"filename": "track_03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 16
+					},
+					"frame": {
+						"x": 67,
+						"y": 193,
+						"w": 64,
+						"h": 16
+					}
+				},
+				{
+					"filename": "track_04.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 16
+					},
+					"frame": {
+						"x": 133,
+						"y": 193,
+						"w": 64,
+						"h": 16
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a49ae32805d07f612ff0a13f4d99191e:2e8ab786ff84936cb7eb0e9d7edd57eb:e6a9de3cc0f790d3762139913eaf1119$"
+	}
+}
