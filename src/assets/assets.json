@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "assets.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 908,
+				"h": 742
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "turretBlueGlow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 826,
+						"h": 1035
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 334,
+						"w": 456,
+						"h": 448
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 456,
+						"h": 448
+					}
+				},
+				{
+					"filename": "turretYellowGlow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 826,
+						"h": 1035
+					},
+					"spriteSourceSize": {
+						"x": 189,
+						"y": 445,
+						"w": 448,
+						"h": 337
+					},
+					"frame": {
+						"x": 459,
+						"y": 1,
+						"w": 448,
+						"h": 337
+					}
+				},
+				{
+					"filename": "turret.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 826,
+						"h": 1035
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 359,
+						"w": 404,
+						"h": 401
+					},
+					"frame": {
+						"x": 459,
+						"y": 340,
+						"w": 404,
+						"h": 401
+					}
+				},
+				{
+					"filename": "gun.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 345,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 345,
+						"h": 130
+					},
+					"frame": {
+						"x": 1,
+						"y": 451,
+						"w": 345,
+						"h": 130
+					}
+				},
+				{
+					"filename": "robot.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 177,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 24,
+						"w": 111,
+						"h": 85
+					},
+					"frame": {
+						"x": 1,
+						"y": 583,
+						"w": 111,
+						"h": 85
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:100981cba85ee9d22280c59714838b4f:71d60c4e05b214ce6d5623cd4f957600:a759b6bbc8381ac9c472b28f589ad0d6$"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "assets2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 202,
+				"h": 486
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "loco.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 343
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 200,
+						"h": 342
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 200,
+						"h": 342
+					}
+				},
+				{
+					"filename": "bullet.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 345,
+						"w": 143,
+						"h": 140
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9d78df0459c111fc62b85d467ee47b7b:5e5232e9b397a4322775140d47c092eb:09550fb4fdcdfdbbc019b92dacf78d7a$"
+	}
+}
