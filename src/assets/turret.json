@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "turret.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 249,
+				"h": 328
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "turret.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 249,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 247,
+						"h": 326
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 247,
+						"h": 326
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1a6aa8eccd9247b1001f94dd61812e30:9e9d85b245ff8b57ddf0e519e064b854:26057a831b32959680a28025ef05a3b1$"
+	}
+}
